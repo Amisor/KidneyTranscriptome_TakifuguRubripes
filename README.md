@@ -37,3 +37,6 @@ Includes:
 #### `FastQC`
 Contains:
 - PDF and HTML versions of FastQC reports for the different samples.
+
+**If you want to run the code, make sure to specify the correct path 
+where your data is saved to run it effectively.**
