@@ -41,9 +41,9 @@ Contains:
 #### `docs`
 Contains project documentation and presentation materials:
 
-* **Project report:** Project's methodology and findings.
-* **Supplementary material:** Additional figures, tables, and extended data.
-* **Presentation slides:** Slide deck used to present the project.
+* Project report: Project's methodology and findings.
+* Supplementary material: Additional figures, tables, and extended data.
+* Presentation slides: Slide deck used to present the project.
 
 **If you want to run the code, make sure to specify the correct path 
 where your data is saved to run it effectively.**
